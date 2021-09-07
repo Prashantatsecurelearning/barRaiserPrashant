@@ -1,0 +1,14 @@
+com/barraiser/ReactNativeFlipper.java
+ com.barraiser.ReactNativeFlipper
+ com.barraiser.ReactNativeFlipper$1
+ com.barraiser.ReactNativeFlipper$2
+ com.barraiser.ReactNativeFlipper$2$1
+com/barraiser/MainActivity.java
+ com.barraiser.MainActivity
+com/barraiser/BuildConfig.java
+ com.barraiser.BuildConfig
+com/barraiser/MainApplication.java
+ com.barraiser.MainApplication
+ com.barraiser.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
